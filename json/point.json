@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "data": {
+        "id": 1,
+        "name": "地标1",
+        "longitude": "113.330",
+        "latitude": "23.136",
+        "desc": "地址：北京市东城区王府井大街88号乐天银泰百货八层",
+        "opts" : {
+          "width" : 200,
+          "height": 100,
+          "title" : "海底捞王府井店" ,
+          "enableMessage":true,
+          "message":"亲耐滴，晚上一起吃个饭吧？戳下面的链接看下地址喔~"
+        }
+    }
+}
